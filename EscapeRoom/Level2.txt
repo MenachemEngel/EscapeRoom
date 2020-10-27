@@ -1,0 +1,14 @@
+t 300
+g level2_room.png 8 4 14 5 6 14 7 8 8 5 3 5 6 14 1.6 2.8 6 14 1.6 3.8
+f frij_focus.png
+z
+o ptish.png 2 1.5 1 1 1 1
+f closet_focus.png 1 1 1 1
+e
+o key.png 2 1.5 9 9 9 9
+f door2_focus.png door2_open_focus.png 9 9 9 9
+f aqua_safe_focuse.png
+p 3 1 4 1
+o fish_food.png 2 1.5 2 2 2 2
+f aqua_focuse.png 2 2 2 2
+o eq.png 2 1.5

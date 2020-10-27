@@ -1,0 +1,13 @@
+t 240
+g level3_room.png 8 6 10 3 6 14 12 5 8 9 3 5 8 4 2 4 8 4 1.3 8
+f phone_focus.png
+x
+f clock_focus.png
+w
+f shape_focus.png
+b
+o zviot.png 2 1.5
+f vase_focus.png
+o key.png 2 2
+f door3_focus.png door3_open_focus.png 8 8 8 8
+p 4 8 3 5

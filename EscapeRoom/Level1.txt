@@ -1,0 +1,11 @@
+t 120
+g level1_room.png 6 3 12 8 5 6 3.4 15 6 6 2.2 4 6 6 1.6 3 6 6 1.6 7 
+f door_focus.png door_focus2.png 8 6 3 2
+f picture_focus.png
+f sofa_focus.png
+o remote.png 2 1.2 3 8 5 7
+f drawer_focus.png drawer_focus2.png
+p 4 5 2 3
+o key.png 2 1.5 8 6 3 2
+f tv_focus.png tv_focus2.png 3 8 5 7
+p 6 3 9 2
